@@ -53,9 +53,6 @@ function admin_lockout_activate() {
 /**
  * Runs when the plugin is deactivated.
  *
- * Note: When uninstalling the plugin, the uninstall.php file
- * in the plugin directory is called.
- *
  * @since 1.0.0
  */
 function admin_lockout_deactivate() {
